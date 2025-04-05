@@ -69,11 +69,7 @@ How It Works
 
 Here is the demo video showing the motion detection system in action:
 
-<video width="640" height="480" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-    
+[Demo Video](demo.mp4)
 
 Contributing
 ------------
