@@ -5,9 +5,9 @@ This project uses a Raspberry Pi and a webcam to detect human motion in real-tim
 Here are some screenshots of the motion detection system in action:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="screenshots/motion_2025-03-31_15-25-05.jpg" alt="Motion Detection 1" width="320"/>
-  <img src="screenshots/motion_2025-03-31_15-25-39.jpg" alt="Motion Detection 2" width="320"/>
-  <img src="screenshots/motion_2025-03-31_15-25-41.jpg" alt="Motion Detection 3" width="320"/>
+  <img src="screenshots/motion_2025-03-31_15-25-05.jpg" alt="Motion Detection 1" width="33%"/>
+  <img src="screenshots/motion_2025-03-31_15-25-39.jpg" alt="Motion Detection 2" width="33%"/>
+  <img src="screenshots/motion_2025-03-31_15-25-41.jpg" alt="Motion Detection 3" width="33%"/>
 </div>
 ## Requirements
 
